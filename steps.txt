@@ -1,3 +1,4 @@
 line one
 line Two from REMOTE
+line three FROM - LOCAL
 
